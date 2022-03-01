@@ -1,4 +1,4 @@
-# Section 6 Figma Introduction Interface Dimension
+# Figma Introduction Interface Dimension
 
 * Apa Itu Dimensi Dalam UI
 
