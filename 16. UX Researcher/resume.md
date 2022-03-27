@@ -16,3 +16,18 @@ Stakeholders circles, UX is not eorking alone :
 - Engineering (engineers, Q&A people, tech support)
 - Business (upper management, product managers, marketing people, sales people)
 _Stakeholder circles it's our research_ by Tomer Sharon
+
+when to do researcher?
+
+_idea generation > screening > idea evaluation > development > product evaluation_
+- exploratory : to discovery opportunities for new initiative
+- generative : to understand more between several and concepts
+- evaluative : to discover area for improvement
+
+Create goals : 
+1. understand the background
+  - ask your stakeholders what they want to learn
+  - collect and study the available data first (google analytic data, heatmap, etc)
+
+2. write down the goal
+  - try to be concise and narrow down the goals to a spesific aspect of users behaviour/attitudes
