@@ -24,10 +24,21 @@ _idea generation > screening > idea evaluation > development > product evaluatio
 - generative : to understand more between several and concepts
 - evaluative : to discover area for improvement
 
-Create goals : 
+Step by step : Create goals  
 1. understand the background
   - ask your stakeholders what they want to learn
   - collect and study the available data first (google analytic data, heatmap, etc)
 
 2. write down the goal
   - try to be concise and narrow down the goals to a spesific aspect of users behaviour/attitudes
+
+Step by step : Define participant criteria
+Step by step : define number of participant needed (best result come from testing 5 users)
+Step by step : develop research guideline
+Step by step : write usability testing task
+Step by step : dos and don'ts during the testing
+
+evaluative research : known as avaluation research or program evaluation, is a type of research you can use to evaluate a product or concept and collect data that helps improve your solution.
+
+choose UX research method
+ideation workshop
