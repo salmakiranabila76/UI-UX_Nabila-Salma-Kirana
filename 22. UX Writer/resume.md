@@ -16,3 +16,14 @@ Di sisi lain, juga meminimalkan pentingnya kata-kata dan menegaskan tidak ada ya
 
 Dengan kata lain, jika kalian ingin membuat
 interface yang terdengar “manusia” dan berhubungan dengan orang yang menggunakannya, kalian perlu kata-kata (copies).
+
+## Dampak Microcopy
+
+- Menciptakan experience yang positif dan melibatkan user
+- Meningkatkan dari sisi usability
+- Meningkatkan branding dan diferensiasi
+
+## Voice and Tone Design
+Vo[ice and Tone Design menentukan bahasa yang akan digunakan pada brand saat berkomunikasi dengan user di UI kalian.
+
+Voice and Tone akan menjaga bahasa yang digunakan pada brand sejalan dengan nilai utama dan dukungan mereka, agar tidak menciptakan ketidakselarasan dan ketidak konsisten.
