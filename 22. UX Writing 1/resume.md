@@ -29,6 +29,9 @@ Voice and Tone Design menentukan bahasa yang akan digunakan pada brand saat berk
 Voice and Tone akan menjaga bahasa yang digunakan pada brand sejalan dengan nilai utama dan dukungan mereka, agar tidak menciptakan ketidakselarasan dan ketidak konsisten.
 
 ## Conversational Writing
+
 Be natural, and spontanious
+
 Coba untuk menjadi se-alami dan se-spontan yang kalian bisa, tanpa pemrosesan atau penataan sebelumnya
+
 Coba bikin pertanyaan
