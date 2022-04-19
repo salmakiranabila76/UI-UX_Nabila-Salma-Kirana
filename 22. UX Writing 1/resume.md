@@ -24,6 +24,11 @@ interface yang terdengar “manusia” dan berhubungan dengan orang yang menggun
 - Meningkatkan branding dan diferensiasi
 
 ## Voice and Tone Design
-Vo[ice and Tone Design menentukan bahasa yang akan digunakan pada brand saat berkomunikasi dengan user di UI kalian.
+Voice and Tone Design menentukan bahasa yang akan digunakan pada brand saat berkomunikasi dengan user di UI kalian.
 
 Voice and Tone akan menjaga bahasa yang digunakan pada brand sejalan dengan nilai utama dan dukungan mereka, agar tidak menciptakan ketidakselarasan dan ketidak konsisten.
+
+## Conversational Writing
+Be natural, and spontanious
+Coba untuk menjadi se-alami dan se-spontan yang kalian bisa, tanpa pemrosesan atau penataan sebelumnya
+Coba bikin pertanyaan
